@@ -1,0 +1,16 @@
+cs2 = 0.3333333333333333
+incompressible = inc
+nx = 300
+ny = 80
+tau = 1.4900000000000002
+omega = 0.6711409395973154
+u_flow = 0.03
+nu = 0.33
+Re = 0.9090909090909091
+cx = 150.0
+cy = 45.0
+ibm_iterations = 5
+rad = 10.0
+ibm points = 81
+force = [1.2690274e-05 0.0000000e+00]
+rho_particle = 1.0309278350515463
